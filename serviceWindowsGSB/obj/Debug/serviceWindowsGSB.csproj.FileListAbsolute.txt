@@ -1,0 +1,8 @@
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\bin\Debug\serviceWindowsGSB.exe.config
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\bin\Debug\serviceWindowsGSB.exe
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\bin\Debug\serviceWindowsGSB.pdb
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\obj\Debug\serviceWindowsGSB.csprojResolveAssemblyReference.cache
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\obj\Debug\serviceWindowsGSB.ProjectInstaller.resources
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\obj\Debug\serviceWindowsGSB.csproj.GenerateResource.Cache
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\obj\Debug\serviceWindowsGSB.exe
+C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\serviceWindowsGSB\obj\Debug\serviceWindowsGSB.pdb
