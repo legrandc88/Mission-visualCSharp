@@ -1,5 +1,0 @@
-C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\y2kbug\bin\Debug\y2kbug.dll
-C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\y2kbug\bin\Debug\y2kbug.pdb
-C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\y2kbug\obj\Debug\y2kbug.csprojResolveAssemblyReference.cache
-C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\y2kbug\obj\Debug\y2kbug.dll
-C:\Users\Leg\Documents\Visual Studio 2012\Projects\PPE GSB MISSION\y2kbug\obj\Debug\y2kbug.pdb

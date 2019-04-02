@@ -19,6 +19,8 @@ namespace serviceWindowsGSB
 
         protected override void OnStart(string[] args)
         {
+            Console.WriteLine("service créé et démarré");
+
         }
 
         protected override void OnStop()
