@@ -15,11 +15,14 @@ namespace serviceWindowsGSB
         public Service1()
         {
             InitializeComponent();
+
+            
+
         }
 
         protected override void OnStart(string[] args)
         {
-            Console.WriteLine("service créé et démarré");
+            
 
         }
 
